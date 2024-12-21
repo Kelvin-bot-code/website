@@ -22,9 +22,8 @@ Validate the layout in various browsers.
 ## Step6:
 Validate the HTML code.
 
-## Step 7:
+# Step 7:
 Publish the website in the given URL.
-
 ## OUTPUT :
 
 ![Screenshot 2024-12-21 152414](https://github.com/user-attachments/assets/fb99d0b9-abce-4a81-9585-ba66e0aeab73)
