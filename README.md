@@ -17,15 +17,24 @@ Updating the sample content.
 Choose the appropriate style and color scheme.
 
 ## Step 5:
+Validate the layout in various browsers.
+
+## Step6:
+Validate the HTML code.
+
+## Step 7:
+Publish the website in the given URL.
+
+## OUTPUT :
+
 ![Screenshot 2024-12-21 152414](https://github.com/user-attachments/assets/fb99d0b9-abce-4a81-9585-ba66e0aeab73)
 ![Screenshot 2024-12-21 152423](https://github.com/user-attachments/assets/bbc5c1a6-f8db-49cd-bc98-6c2a1290654c)
 ![Screenshot 2024-12-21 152454](https://github.com/user-attachments/assets/10b3f872-61e3-4792-b7ee-f85bc7ad0b84)
 ![Screenshot 2024-12-21 152506](https://github.com/user-attachments/assets/e85acb38-0664-493d-ba56-e6704b9e580d)
 
-Validate the layout in various browsers.
+## PROGRAM :
 
-## Step 6:
-Validate the HTML code.
+
 # administration.html
 ```html
 {% load static %}
@@ -529,10 +538,6 @@ button:hover {
 }
 ```
 
-## Step 7:
-Publish the website in the given URL.
 
-# PROGRAM:
-# OUTPUT:
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
